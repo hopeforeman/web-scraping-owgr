@@ -12,7 +12,7 @@
  variable c, is the cursor to access and use SQL methods
 
  GETS A CONNECTION TO THE WEBPAGE
- variable called URL, is the page web you want to scrape
+ variable called URL, is the page web you want to scrape { http://www.owgr.com/ranking }
  variable r, gets the web page to load it into the IDE
 
  FIND THE TABLE ELEMENT IN THE HTML
